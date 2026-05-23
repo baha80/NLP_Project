@@ -122,9 +122,4 @@ streamlit run app.py
 
 ---
 
-## 👥 Team
-- Student 1
-- Student 2
-- Student 3
-
 **Supervisor**: Prof. Anis Bel Hadj Hassin — ESPRIT 2024/2025
