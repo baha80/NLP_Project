@@ -1,0 +1,66 @@
+/* Streamlit dashboard styling */
+
+[data-testid="stAppViewContainer"] {
+    background: radial-gradient(circle at top, #162033 0%, #0f172a 48%, #0b1220 100%);
+    color: #e5eefb;
+}
+
+[data-testid="stSidebar"] {
+    background: #111827;
+    border-right: 1px solid #1f2937;
+}
+
+[data-testid="metric-container"] {
+    background: rgba(17, 24, 39, 0.92);
+    border: 1px solid #334155;
+    border-radius: 8px;
+    padding: 0.9rem;
+    box-shadow: 0 10px 30px rgba(2, 6, 23, 0.35);
+}
+
+h1, h2, h3 {
+    color: #f8fafc;
+    letter-spacing: 0;
+}
+
+.stButton > button,
+.stDownloadButton > button {
+    border-radius: 8px;
+    border: 1px solid #3b82f6;
+    background: #2563eb;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.stButton > button:hover,
+.stDownloadButton > button:hover {
+    border-color: #60a5fa;
+    background: #1d4ed8;
+    color: #ffffff;
+}
+
+[data-testid="stDataFrame"] {
+    border: 1px solid #334155;
+    border-radius: 8px;
+}
+
+div[data-testid="stAlert"] {
+    border-radius: 8px;
+}
+
+[data-testid="stSidebar"] * {
+    color: #dbe7ff;
+}
+
+.stMarkdown,
+.stCaption,
+label,
+p,
+span {
+    color: #dbe7ff;
+}
+
+.block-container {
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+}
