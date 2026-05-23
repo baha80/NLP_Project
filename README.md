@@ -1,7 +1,7 @@
 # 🧠 Sentiment Analysis Web App — ESPRIT 2024/2025
 
 > **NLP Project** — Analyse Automatique des Sentiments pour l'Expérience Client  
-> 4ème Année Informatique | Prof. Anis Bel Hadj Hassin
+> 4ème Année Informatique | 
 
 ---
 
@@ -121,5 +121,3 @@ streamlit run app.py
 - **Deployment**: Streamlit Cloud
 
 ---
-
-**Supervisor**: Prof. Anis Bel Hadj Hassin — ESPRIT 2024/2025
